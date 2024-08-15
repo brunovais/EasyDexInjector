@@ -1,4 +1,4 @@
-.class final Lcom/useblu/presentationlayer/di/LyticsModuleKt$analyticsModule$1$1;
+.class final Lxxxxxx;
 .super Lkotlin/jvm/internal/Lambda;
 .source "SourceFile"
 
